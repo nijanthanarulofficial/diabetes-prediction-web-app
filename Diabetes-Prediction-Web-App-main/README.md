@@ -23,7 +23,7 @@ This repository contains the code for a web-based diabetes prediction applicatio
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
 ##  ![image](https://media.giphy.com/media/lnlvaqJEhQtwMpkUzc/giphy.gif?cid=790b7611eotjuokmyrm1b2oevor8qi7jps7vm6rwxdd5lq51&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ## Features
-
+##  ![image](https://media.giphy.com/media/QutE0rQnF38FMypEVK/giphy.gif?cid=ecf05e4785xzhm5jsfltw7x6uogli3w5242jgkpolqof5e52&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 - Users can input their health parameters such as Glucose level, Blood Pressure, Skin Thickness, Insulin level, BMI, Diabetes Pedigree Function (DPF), and Age.
 - The ensemble machine learning model predicts the likelihood of diabetes based on the input.
 - The app displays the prediction result, indicating whether the user is likely to have diabetes or not.
