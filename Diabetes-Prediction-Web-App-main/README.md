@@ -21,7 +21,7 @@ This repository contains the code for a web-based diabetes prediction applicatio
 ## Overview
 
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
-
+##  ![image](https://media.giphy.com/media/lnlvaqJEhQtwMpkUzc/giphy.gif?cid=790b7611eotjuokmyrm1b2oevor8qi7jps7vm6rwxdd5lq51&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ## Features
 
 - Users can input their health parameters such as Glucose level, Blood Pressure, Skin Thickness, Insulin level, BMI, Diabetes Pedigree Function (DPF), and Age.
@@ -36,4 +36,4 @@ The machine learning model used in this app is an ensemble of RandomForestClassi
 
 
 
-<img src="https://tenor.com/view/act4yourheart-diabetes-type2diabetes-heart-disease-doctor-gif-19512994" height=15% width=40% align="right">
+<img src="" height=15% width=40% align="right">
