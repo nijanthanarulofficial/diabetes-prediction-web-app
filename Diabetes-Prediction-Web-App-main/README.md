@@ -36,4 +36,4 @@ The machine learning model used in this app is an ensemble of RandomForestClassi
 
 
 
-<img src="<img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">" height=15% width=40% align="right">
+<img src="https://tenor.com/view/act4yourheart-diabetes-type2diabetes-heart-disease-doctor-gif-19512994" height=15% width=40% align="right">
